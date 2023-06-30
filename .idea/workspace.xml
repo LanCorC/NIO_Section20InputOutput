@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea8cce9d-c1ee-4f2d-b022-9baba054f872" name="Changes" comment="">
+    <list default="true" id="ea8cce9d-c1ee-4f2d-b022-9baba054f872" name="Changes" comment="throwing out still-wrong code and replacing with ObjectInput/OutputStream classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/corcega/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/corcega/Locations.java" afterDir="false" />
     </list>
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ru9UEEw7Ga4b2pwBv7l8MJtRZI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +30,40 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Locations">
+    <configuration name="Locations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corcega.Locations" />
+      <module name="NIO_Section20InputOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corcega.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corcega.Main" />
+      <module name="NIO_Section20InputOutput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corcega.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Locations" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +73,18 @@
       <option name="presentableId" value="Default" />
       <updated>1688089119585</updated>
     </task>
+    <task id="LOCAL-00001" summary="throwing out still-wrong code and replacing with ObjectInput/OutputStream classes">
+      <created>1688089912027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688089912027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="throwing out still-wrong code and replacing with ObjectInput/OutputStream classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="throwing out still-wrong code and replacing with ObjectInput/OutputStream classes" />
   </component>
 </project>
